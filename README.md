@@ -1,6 +1,6 @@
 ### Hi there, This is my professional github account 👋
 
-## Head over to [mohit-k-s](https://github.com/mohit-k-s) to see personal repos
+#### Head over to [mohit-k-s](https://github.com/mohit-k-s) to see personal repos
 
 <!--
 **mohit-kr-s/mohit-kr-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
