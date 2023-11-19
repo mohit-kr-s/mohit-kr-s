@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Personal account [mohit-k-s](https://github.com/mohit-k-s)
+
 <!--
 **mohit-kr-s/mohit-kr-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
